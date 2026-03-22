@@ -1,0 +1,13 @@
+---
+package: "GO.db"
+version: ""
+bioc_release: ""
+date_converted: "2026-03-22"
+source_urls:
+  bioconductor_page: "https://bioconductor.org/packages/release/data/annotation/html/GO.db.html"
+  vignette: "https://bioconductor.org/packages/release/bioc/vignettes/annotate/inst/doc/GOusage.pdf"
+  paper_doi: ""
+  github: "https://github.com/Bioconductor/GO.db"
+  online_book: ""
+notes: "Vignette converted from annotate GOusage PDF via Docling."
+---

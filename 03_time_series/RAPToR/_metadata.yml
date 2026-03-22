@@ -1,0 +1,13 @@
+---
+package: "RAPToR"
+version: ""
+bioc_release: ""
+date_converted: "2026-03-22"
+source_urls:
+  bioconductor_page: ""
+  vignette: ""
+  paper_doi: "https://doi.org/10.1038/s41592-022-01540-0"
+  github: "https://github.com/LBMC/RAPToR"
+  online_book: ""
+notes: "GitHub-only package. Vignettes converted from pre-rendered HTML in repo. tutorial.md contains showcase, DE correction, reference building, and data packages vignettes. Paper is paywalled (Nature Methods)."
+---

@@ -1,0 +1,13 @@
+---
+package: "ReactomePA"
+version: ""
+bioc_release: ""
+date_converted: "2026-03-22"
+source_urls:
+  bioconductor_page: "https://bioconductor.org/packages/release/bioc/html/ReactomePA.html"
+  vignette: "https://bioconductor.org/packages/release/bioc/vignettes/ReactomePA/inst/doc/ReactomePA.html"
+  paper_doi: "https://doi.org/10.1039/C5MB00663E"
+  github: "https://github.com/YuLab-SMU/ReactomePA"
+  online_book: ""
+notes: "Bioc vignette is brief. Full docs in clusterProfiler online book."
+---

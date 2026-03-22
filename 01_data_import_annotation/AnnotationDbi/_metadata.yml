@@ -1,0 +1,13 @@
+---
+package: "AnnotationDbi"
+version: ""
+bioc_release: ""
+date_converted: "2026-03-22"
+source_urls:
+  bioconductor_page: "https://bioconductor.org/packages/release/bioc/html/AnnotationDbi.html"
+  vignette: "https://bioconductor.org/packages/release/bioc/vignettes/AnnotationDbi/inst/doc/IntroToAnnotationPackages.pdf"
+  paper_doi: ""
+  github: ""
+  online_book: ""
+notes: "Vignette converted from PDF via Docling."
+---

@@ -1,0 +1,13 @@
+---
+package: "fgsea"
+version: ""
+bioc_release: ""
+date_converted: "2026-03-22"
+source_urls:
+  bioconductor_page: "https://bioconductor.org/packages/release/bioc/html/fgsea.html"
+  vignette: "https://bioconductor.org/packages/release/bioc/vignettes/fgsea/inst/doc/fgsea-tutorial.html"
+  paper_doi: "https://doi.org/10.1101/060012"
+  github: "https://github.com/alserglab/fgsea"
+  online_book: ""
+notes: "tutorial.md is the GESECA (gene set co-regulation) second vignette. Paper is bioRxiv preprint."
+---

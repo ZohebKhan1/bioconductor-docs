@@ -1,0 +1,13 @@
+---
+package: "maSigPro"
+version: ""
+bioc_release: ""
+date_converted: "2026-03-22"
+source_urls:
+  bioconductor_page: "https://bioconductor.org/packages/release/bioc/html/maSigPro.html"
+  vignette: "https://bioconductor.org/packages/release/bioc/vignettes/maSigPro/inst/doc/maSigProUsersGuide.pdf"
+  paper_doi: "https://doi.org/10.1093/bioinformatics/btu333"
+  github: "https://github.com/mjnueda/maSigPro"
+  online_book: ""
+notes: "Vignette converted from PDF via Docling. Paper is 2014 update. Original 2006 paper: https://doi.org/10.1093/bioinformatics/btl056"
+---

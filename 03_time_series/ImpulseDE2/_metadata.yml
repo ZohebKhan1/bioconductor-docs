@@ -1,0 +1,13 @@
+---
+package: "ImpulseDE2"
+version: ""
+bioc_release: ""
+date_converted: "2026-03-22"
+source_urls:
+  bioconductor_page: "https://bioconductor.org/packages/release/bioc/html/ImpulseDE2.html"
+  vignette: "https://bioconductor.org/packages/release/bioc/vignettes/ImpulseDE2/inst/doc/ImpulseDE2_Tutorial.html"
+  paper_doi: "https://doi.org/10.1093/nar/gky675"
+  github: "https://github.com/YosefLab/ImpulseDE2"
+  online_book: ""
+notes: "Removed from current Bioconductor release. Vignette converted from repo .Rmd. Paper from PMC6237758."
+---

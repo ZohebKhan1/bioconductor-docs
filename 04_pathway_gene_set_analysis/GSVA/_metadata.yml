@@ -1,0 +1,13 @@
+---
+package: "GSVA"
+version: ""
+bioc_release: ""
+date_converted: "2026-03-22"
+source_urls:
+  bioconductor_page: "https://bioconductor.org/packages/release/bioc/html/GSVA.html"
+  vignette: "https://bioconductor.org/packages/release/bioc/vignettes/GSVA/inst/doc/GSVA.html"
+  paper_doi: "https://doi.org/10.1186/1471-2105-14-7"
+  github: "https://github.com/rcastelo/GSVA"
+  online_book: ""
+notes: "tutorial.md is the GSVA_scRNAseq vignette (single-cell). Paper from PMC3618321."
+---

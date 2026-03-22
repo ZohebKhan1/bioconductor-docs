@@ -1,0 +1,13 @@
+---
+package: "clusterProfiler"
+version: ""
+bioc_release: ""
+date_converted: "2026-03-22"
+source_urls:
+  bioconductor_page: "https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html"
+  vignette: "https://bioconductor.org/packages/release/bioc/vignettes/clusterProfiler/inst/doc/clusterProfiler.html"
+  paper_doi: "https://doi.org/10.1016/j.xinn.2021.100141"
+  github: "https://github.com/YuLab-SMU/clusterProfiler"
+  online_book: "https://yulab-smu.top/biomedical-knowledge-mining-book/"
+notes: "Bioc vignette is a stub. Real docs in book_source/. Also cite 2012 paper: https://doi.org/10.1089/omi.2011.0118"
+---
