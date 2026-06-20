@@ -117,3 +117,13 @@ PCAtools.
 - PDF vignettes and papers: Docling (CPU)
 - Rmd/qmd book sources: pandoc
 - RAPToR vignettes: pre-rendered HTML from repo
+
+## Contact
+
+**Author:** Zoheb Khan
+
+**Affiliation:** Bioinformatician @ Moskowitz Lab at the University of Chicago Department of Pathology, Pediatrics, and Human Genetics
+
+**Email:** zohebkhan600@gmail.com
+
+**Website:** https://zohebkhan1.github.io/
